@@ -1,7 +1,10 @@
 /models/imagenet-vgg-verydeep-19.mat
-
+.ipynb/*
+*/.ipynb/*
+*/.ipynb/*
 __pycache__/
 *.py[cod]
+.ipynb_checkpoints/*
 
 
 ＃===.idea directory===
@@ -21,3 +24,6 @@ __pycache__/
 
 !/.idea/templateLanguages.xml
 !/.idea/vcs.xml
+results
+.ipynb_checkpoints/neuralart_tf_ja-checkpoint.ipynb
+.ipynb_checkpoints
